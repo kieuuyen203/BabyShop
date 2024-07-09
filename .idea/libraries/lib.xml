@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CKFinder-2.6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CKFinderPlugin-Watermark-2.6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-vfs-3.2.11.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fluent-hc-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CKFinderPlugin-FileEditor-2.6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CKFinderPlugin-ImageResize-2.6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-3.1.4.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thumbnailator-0.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

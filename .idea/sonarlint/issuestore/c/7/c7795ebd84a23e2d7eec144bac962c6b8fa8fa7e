@@ -1,0 +1,48 @@
+
+k	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦øÊ•ÿÿÿÿÿ
+l	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Œ‘àøÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ö‹ô
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÎ©Ğûÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ĞÄàûÿÿÿÿ
+n
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "u".(å¿Ê
+n
+java:S14883"YImmediately return this expression instead of assigning it to the temporary variable "u".(å¿Ê
+w
+java:S1488p"\Immediately return this expression instead of assigning it to the temporary variable "user".(€Ãİçÿÿÿÿÿ
+x
+java:S1488Œ"\Immediately return this expression instead of assigning it to the temporary variable "user".(€Ãİçÿÿÿÿÿ
+x
+java:S1488¨"\Immediately return this expression instead of assigning it to the temporary variable "user".(€Ãİçÿÿÿÿÿ
+x
+java:S1488”"\Immediately return this expression instead of assigning it to the temporary variable "user".(€Ãİçÿÿÿÿÿ
+>	java:S108&")Either remove or fill this block of code.(”ı¾
+>	java:S108B")Either remove or fill this block of code.(”ı¾
+M
+java:S6126H"2Replace this String concatenation with Text block.(´æÆ‘ÿÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106€"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106¸"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+?	java:S108Ó")Either remove or fill this block of code.(”ı¾
+I
+java:S6126Ù"2Replace this String concatenation with Text block.(ê˜óç
+V
+java:S2479á":Remove the non-escaped \u0009 character from this literal.(Úˆÿ—úÿÿÿÿ
+F	java:S106ñ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(êì®³
+I
+java:S6126‚"2Replace this String concatenation with Text block.(î¼Äç
+F	java:S106Œ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+?	java:S108š")Either remove or fill this block of code.(”ı¾
+?	java:S108µ")Either remove or fill this block of code.(”ı¾
+?	java:S108Ğ")Either remove or fill this block of code.(”ı¾
+I
+java:S6126Ö"2Replace this String concatenation with Text block.(ŒóÎó
+?	java:S108à")Either remove or fill this block of code.(”ı¾
+I
+java:S6126ê"2Replace this String concatenation with Text block.(î—ÿæ
+?	java:S108ú")Either remove or fill this block of code.(”ı¾
+I
+java:S6126€"2Replace this String concatenation with Text block.(î¼Äç
+F	java:S106‰"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ

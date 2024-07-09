@@ -1,0 +1,49 @@
+
+—
+java:S1192+"VDefine a constant instead of duplicating this literal "view/authen/login.jsp" 6 times.(ñ×ö¿ùÿÿÿÿJ$be7693db-e35d-4929-b139-76d048256f2f
+™
+java:S1192:"^Define a constant instead of duplicating this literal "view/authen/resetpassword.jsp" 3 times.(æÿgJ$d7f7b0ee-88a6-4606-8b70-c64c595b6526
+Š
+java:S1192t"NDefine a constant instead of duplicating this literal "notification" 20 times.(°ÕÀ˜J$bcc69d2e-2244-4490-a6b8-f83137ff87d8
+ˆ
+java:S1192$"GDefine a constant instead of duplicating this literal "action" 4 times.(ØÑÏÙüÿÿÿÿJ$84b6f406-367e-47bf-9ed1-f8717b961e9a
+ˆ
+java:S1192•"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(áò‰øÿÿÿÿJ$bf960e6a-73cd-4f60-8c5f-622c36b5125c
+›
+java:S11927"_Define a constant instead of duplicating this literal "view/authen/changepassword.jsp" 5 times.(ŸöÀòJ$37ead710-b166-4334-8182-3b5e63831833
+’
+java:S11921"WDefine a constant instead of duplicating this literal "view/authen/signup.jsp" 6 times.(ååíJ$0d1c4540-9b17-4678-90da-489a0b62609a
+š
+java:S1192”"XDefine a constant instead of duplicating this literal "text/html;charset=UTF-8" 4 times.(­„£ûÿÿÿÿJ$4cb78dc6-0f46-4828-b8cf-15120db8ec55
+‚
+java:S1192i"FDefine a constant instead of duplicating this literal "email" 3 times.(»öÃ—J$5f3921d2-d077-41d1-9aa9-8ba31b172aed
+
+java:S11924"\Define a constant instead of duplicating this literal "view/authen/editprofile.jsp" 3 times.(¾ÿº´şÿÿÿÿJ$b0fab43e-eb7e-48d5-b809-4a2024b81795
+’	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë“«ÍúÿÿÿÿJ$268b0c2a-26ac-4992-ba81-540213b9050d
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¤ÿÿÿÿÿJ$0119feef-02c9-47b9-8362-e5f26bcde379
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¡®ÍJ$835e6fcd-3c60-41e0-9f67-a1f1e68577de
+w
+java:S1854m"6Remove this useless assignment to local variable "us".(¹ÙĞäıÿÿÿÿJ$c8889c8e-97c3-4707-91c5-bd8072b6e583
+|
+java:S1854l";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿJ$0929fa7e-8d20-4f6e-929f-2a9723665672
+m
+java:S1481l",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿJ$1cb4a0e2-b17b-4277-89bb-4127c06f5cf8
+h
+java:S1481m"'Remove this unused "us" local variable.(¹ÙĞäıÿÿÿÿJ$7c22f8a7-3bc1-4154-88a3-daee6afab214
+q
+java:S1172"/Remove this unused method parameter "response".(ŒŠÿ¸ıÿÿÿÿJ$14e7a34f-fb2c-487a-820a-b6791d4c282d
+‰
+java:S5998¥"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ãë¡°J$04b3038f-7cb3-4655-8d5c-c45ec7e9b271
+y
+java:S6353¨"<Use concise character class syntax '\\d' instead of '[0-9]'.(¹ÁÓÓJ$07286d32-3aa7-4d63-9da3-7725dd4977ee
+Z
+java:S6353ğ"<Use concise character class syntax '\\d' instead of '[0-9]'.(’ğ‘™8ÿÎÂ§€2
+f	java:S106Ò"+Replace this use of System.out by a logger.(‘‹J$3b2d5b9b-6497-4924-918f-0debc569b2e5
+Z
+java:S2119Ş"Save and re-use this "Random".(¼İÅfJ$13fe5de1-5ebe-4b6e-ba19-4567bb78d1d4
+l
+java:S1172è"/Remove this unused method parameter "response".(†¢³ÅJ$e9f1189d-cbb1-4565-acbf-78bd69f80709
+‘
+java:S5843¨"TSimplify this regular expression to reduce its complexity from 34 to the 20 allowed.(¹ÁÓÓJ$13a0cda2-d19a-4a79-aceb-5f6360266e92
+r
+java:S5843ğ"TSimplify this regular expression to reduce its complexity from 34 to the 20 allowed.(’ğ‘™8ÏÂ§€2

@@ -1,0 +1,7 @@
+
+™	java:S116"YRename this field "original_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§àüæøÿÿÿÿJ$20da352b-b5d7-44c5-beeb-8c17b98f0e33
+	java:S116"URename this field "sale_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÃîJ$9c22baf5-8afd-4e7b-aefd-47370044c661
+–	java:S116"VRename this field "brief_infor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆÙ‰øÿÿÿÿJ$b54bc552-c275-42ba-9237-62a80a18ace2
+‘	java:S116!"VRename this field "update_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öò…åJ$46a5ffcf-3688-4bd5-9b1b-1179b1954137
+–	java:S116""VRename this field "category_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀ–ÖıÿÿÿÿJ$c15aa036-e06b-402e-80e6-117b118a80a5
+•	java:S116#"URename this field "rated_star" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û††üÿÿÿÿJ$9dd15502-2f90-4273-9b0c-2d11f76d6d73

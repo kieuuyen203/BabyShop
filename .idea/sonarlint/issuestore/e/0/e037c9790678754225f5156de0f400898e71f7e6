@@ -1,0 +1,10 @@
+
+Ä
+java:S1598"¨This file "DBConnect.java" should be located in "model" directory, not in "C:\Users\ADMIN\Downloads\g6_se1849sap_swp391_su2024\g6_se1849sap_swp391_su2024\src\java\dal".(‡€ÉÌûÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(şÃÏ§
+@	java:S106"+Replace this use of System.out by a logger.(ö¬
+?	java:S106"+Replace this use of System.out by a logger.(ìÛÆ
+E	java:S106&"+Replace this use of System.out by a logger.(Ü½ş‘üÿÿÿÿ

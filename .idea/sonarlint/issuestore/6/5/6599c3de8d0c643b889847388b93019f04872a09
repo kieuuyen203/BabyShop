@@ -1,0 +1,66 @@
+
+•
+java:S1192‚"XDefine a constant instead of duplicating this literal "UPDATE [dbo].[Product]
+" 3 times.(ıÄJ$0a3807fb-faa1-4464-9c20-8023683e4757
+˜
+java:S1192Œ"VDefine a constant instead of duplicating this literal " WHERE product_id = ?" 4 times.(º–˜ÚşÿÿÿÿJ$0167023c-f3df-42d5-ad36-5115a95c599e
+‘	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğ÷µùÿÿÿÿJ$0eb899bf-faff-45b9-b05b-e504bcde5458
+’	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ÂèşÿÿÿÿJ$9fffd63b-008e-472d-8133-23fb04fd12e7
+’	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ÂèşÿÿÿÿJ$9e9e31ae-f78c-4069-86f7-f316f0d29804
+’	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ÂèşÿÿÿÿJ$1bd7099e-7b77-4da9-95ea-2f79d50e6cfe
+’	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àø™ìùÿÿÿÿJ$4a07cda1-5e03-41d4-a4b8-bbd7b068b9c5
+’	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àø™ìùÿÿÿÿJ$c962cb19-60bc-454d-a30d-3877968c4f98
+’	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àø™ìùÿÿÿÿJ$199b3b3f-4eea-4cae-acc5-261c30378239
+Œ	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÊÖJ$7218bfb3-57b0-4ebe-8ba1-47534735e2d2
+›
+java:S1488Œ"YImmediately return this expression instead of assigning it to the temporary variable "p".(Ã¾å ÿÿÿÿÿJ$9286202f-2b21-47c6-af26-623989e7ee1a
+›
+java:S1488È"YImmediately return this expression instead of assigning it to the temporary variable "p".(Ã¾å ÿÿÿÿÿJ$fb947624-1efb-4ca8-a138-fd31882db317
+d	java:S1080")Either remove or fill this block of code.(É®£J$e6d8cd69-c4f7-4831-ae06-9305f114d7ad
+k	java:S106?"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$de8d8dde-bf6b-4b91-bbf6-8e2f375d8007
+k	java:S106N"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$8f9c97dc-347c-4b62-a48a-c7e25aa1577c
+k	java:S106]"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$462042b7-f4e6-4779-a5ab-3c02e7a608ef
+l	java:S106€"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$bb631271-be33-470c-a149-5a84522d673d
+z
+java:S1854†"8Remove this useless assignment to local variable "list".(Ø–ÛïøÿÿÿÿJ$dd2e261a-8ba4-46be-99ff-78a52ea5b2b9
+k
+java:S1481†")Remove this unused "list" local variable.(Ø–ÛïøÿÿÿÿJ$568b3019-91a2-4ccb-8503-8a56c063b7d1
+l	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$3bc0c929-3cf8-4927-a34e-58100056e430
+l	java:S106¼"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$7eb55bd8-66b2-468b-954d-6a54fc9d38b5
+l	java:S106Ú"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$fc100706-ae33-42fc-828d-32234650ce8e
+l	java:S106û"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$03a71e4b-9492-464b-b508-64991b39c5d7
+o
+java:S6126‚"2Replace this String concatenation with Text block.(ıÄJ$c93d0dcd-3a78-4834-bf70-442d984ee03b
+t
+java:S6126˜"2Replace this String concatenation with Text block.(¶ õ×ùÿÿÿÿJ$299ef094-3bac-41b9-9358-179b7459bfea
+g	java:S106 "+Replace this use of System.out by a logger.(ö¬J$69a5d3b8-3e5d-452f-8b9e-3e21f33692e8
+t
+java:S6126¦"2Replace this String concatenation with Text block.(ÅÊşßùÿÿÿÿJ$7f2712cf-a0d1-4be4-bb11-3603259512f3
+g	java:S106À"+Replace this use of System.out by a logger.(ö¬J$87c13e1b-7955-41f7-9020-d88f6845bc08
+o
+java:S6126Ç"2Replace this String concatenation with Text block.(š¡ÖËJ$9325248e-1eb0-4235-8174-8ad9aa36d63c
+g	java:S106Ñ"+Replace this use of System.out by a logger.(ö¬J$d9fccd93-b446-4371-9a40-0e2d1d552b00
+o
+java:S6126Ø"2Replace this String concatenation with Text block.(ıÄJ$e50d5a06-d041-47db-aec4-5495e7f0ad8e
+g	java:S106â"+Replace this use of System.out by a logger.(ö¬J$f834cd52-2afa-4983-ab58-bdb86d25d7e2
+l	java:S106ï"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$d1e62d18-7651-4eae-8987-bd936424fba3
+l	java:S106ı"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$ddac5d6d-3bdc-4f70-bef4-52f8429c5fc4
+l	java:S106Œ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$d9f63d82-6d71-4231-bf8f-e3ed8e0b36fb
+l	java:S106œ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$4d161581-a8c4-41f8-9a1e-46c1f556f075
+y
+java:S6909©"<Move this loop-invariant setter invocation out of this loop.(Ğ¿šİJ$af437da2-bb58-4ab3-9cad-c3c2a1fca2b4
+y
+java:S6909±"<Move this loop-invariant setter invocation out of this loop.(Ğ¿šİJ$59cfe0fe-b5de-4c76-bfa4-694b562680a8
+l	java:S106¼"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$ddc54a72-b429-41b2-ad3d-d383697f7880
+y
+java:S6909Ë"<Move this loop-invariant setter invocation out of this loop.(Ğ¿šİJ$d4564db4-3882-4df1-b367-53832d470c42
+y
+java:S6909Ó"<Move this loop-invariant setter invocation out of this loop.(Ğ¿šİJ$6e1e3a3a-fd68-43dc-9c31-90f9f63c210d
+l	java:S106Ş"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$2c52dfc5-04a7-4bd7-85e0-727151717ec6
+l	java:S106ï"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$f7e5a2ba-5ac8-4ad0-8c54-bf81a5b82741
+o
+java:S6126ö"2Replace this String concatenation with Text block.(ıÄJ$e84001ee-1c1b-4ca2-94dc-c6dad8278280
+g	java:S106ÿ"+Replace this use of System.out by a logger.(ö¬J$c3354096-1d0a-4f90-ae00-95934e479600
+g	java:S106ˆ"+Replace this use of System.out by a logger.(íáƒJ$a1d36677-13d0-4b9d-8272-525ae52da575
+“
+java:S6912Ş"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(™Ç°†J$95fc3f3b-5864-4aec-8c83-9d3ab835f485

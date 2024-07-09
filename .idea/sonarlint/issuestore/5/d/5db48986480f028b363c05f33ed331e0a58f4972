@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ß¾ŞJ$73ad77d4-8dd5-4415-9b04-c589a4adc58a
+n
+java:S1199@"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$53a4787a-b427-4a5c-92af-2298bcc61115
+r
+java:S1172"1Remove this unused method parameter "smtpServer".(ÙÌÑ’úÿÿÿÿJ$63892fe7-ea04-4bb4-b2ce-822f64466da1
+w	java:S125"<This block of commented-out lines of code should be removed.(±È”£J$69408933-c231-41fc-90a6-bd9ad8e1f628
+w	java:S125"<This block of commented-out lines of code should be removed.(àˆçJ$7f88e25d-bae9-4109-ad30-d8ba56f4ea82
+{
+java:S1161 ":Add the "@Override" annotation above this method signature(ÇĞüÇùÿÿÿÿJ$6a1cb17c-edcb-48b9-9c5a-500c110c2766
+f	java:S1067"+Replace this use of System.out by a logger.(ÆÀûıJ$1e445fbe-11d0-4788-ae04-f94dcb611c6b
+e	java:S106K"+Replace this use of System.out by a logger.(‘‹J$a7d1e0b3-99e4-4800-a4fb-e5cbf438a1ab
